@@ -1,4 +1,4 @@
 {
-  "1.9-unlocked" : 0,
+  "1.7-unlocked" : 1,
   "play_view_background_full_screen" : 0
 }
