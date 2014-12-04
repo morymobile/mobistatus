@@ -1,7 +1,7 @@
 {
   "3.1-unlocked" : 0,
   "3.2-unlocked" : 1,
-  "play_view_background_full_screen" : 0,
+  "play_view_background_full_screen" : 1,
   "start_crawler_agent": 0,
   "start_dbmz_downloader": 0,
   "show_dbmz_photos": 0
